@@ -1,5 +1,6 @@
-package tiposvariaveis.src;
 
 public class TiposVariaveis {
+    System.out.println("231");
+
     
 }
